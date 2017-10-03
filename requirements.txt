@@ -1,0 +1,4 @@
+itchat
+flask
+pyecharts
+jieba
